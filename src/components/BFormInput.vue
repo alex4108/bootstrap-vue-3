@@ -12,7 +12,7 @@
 </template>
 
 <script lang="ts">
-import { InputType } from '@/types';
+import { InputType } from '../types';
 import { computed, defineComponent, PropType } from 'vue'
 import useId from '../composables/useId';
 
